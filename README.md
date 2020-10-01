@@ -11,3 +11,6 @@ Implementation of doubly linked list from a singly linked list using xor opertat
 
 ### 3. Fibonacci Search
 A comparision-based search technique that uses fibonacci numbers to search an element in a sorted array.
+
+### 4. Sentinel linear search
+A type of linear search where the number of comparisons are reduced as compared to a traditional linear search
