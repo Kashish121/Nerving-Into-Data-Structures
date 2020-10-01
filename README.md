@@ -5,3 +5,6 @@ Topics are as follows :
 
 ### 1. Selecting a random node
 Return a random node from a given linked list ensuring that the probability to fetch that specific node is 1/n where n is the size of the list.
+
+### 2. XOR Linked list- Memory effecinct linked list
+Implementation of doubly linked list from a singly linked list using xor opertation.
