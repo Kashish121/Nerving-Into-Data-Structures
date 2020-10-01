@@ -8,3 +8,6 @@ Return a random node from a given linked list ensuring that the probability to f
 
 ### 2. XOR Linked list- Memory effecinct linked list
 Implementation of doubly linked list from a singly linked list using xor opertation.
+
+### 3. Fibonacci Search
+A comparision-based search technique that uses fibonacci numbers to search an element in a sorted array.
