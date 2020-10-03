@@ -13,7 +13,7 @@ Implementation of doubly linked list from a singly linked list using xor opertat
 A comparision-based search technique that uses fibonacci numbers to search an element in a sorted array.
 
 ### 4. Sentinel linear search
-A type of linear search where the number of comparisons are reduced as compared to a traditional linear search
+A type of linear search where the number of comparisons are reduced as compared to a traditional linear search.
 
 ### 5. Lowest common ancestor
 Find the lowest common ancestor(LCA) of two nodes in a binary tree.
